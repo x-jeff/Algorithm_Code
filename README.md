@@ -11,3 +11,6 @@ The implementation of the algorithm.
 2. [Bubble Sort(冒泡排序)](http://shichaoxin.com/2020/11/04/算法基础-排序-冒泡排序/)
 	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/BubbleSort.cpp)
 	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/BubbleSort.py)
+3. [Insertion Sort(插入排序)](http://shichaoxin.com/2020/12/20/算法基础-排序-插入排序/)
+	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/InsertionSort.cpp)
+	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/InsertionSort.py)
