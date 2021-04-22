@@ -17,3 +17,6 @@ The implementation of the algorithm.
 4. [Shell Sort(希尔排序)](http://shichaoxin.com/2021/03/11/算法基础-排序-希尔排序/)
 	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/ShellSort.cpp)
 	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/ShellSort.py)
+5. [Merge Sort(归并排序)](http://shichaoxin.com/2021/04/22/算法基础-排序-归并排序/)
+	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/MergeSort.cpp)
+	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/MergeSort.py)
