@@ -20,3 +20,6 @@ The implementation of the algorithm.
 5. [Merge Sort(归并排序)](http://shichaoxin.com/2021/04/22/算法基础-排序-归并排序/)
 	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/MergeSort.cpp)
 	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/MergeSort.py)
+6. [Quick Sort(快速排序)](http://shichaoxin.com/2021/05/23/算法基础-排序-快速排序/)
+	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/QuickSort.cpp)
+	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/QuickSort.py)
