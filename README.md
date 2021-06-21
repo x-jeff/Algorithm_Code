@@ -23,3 +23,6 @@ The implementation of the algorithm.
 6. [Quick Sort(快速排序)](http://shichaoxin.com/2021/05/23/算法基础-排序-快速排序/)
 	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/QuickSort.cpp)
 	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/QuickSort.py)
+7. [Heap Sort(堆排序)](http://shichaoxin.com/2021/06/21/算法基础-排序-堆排序/)
+	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/HeapSort.cpp)
+	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/HeapSort.py)
