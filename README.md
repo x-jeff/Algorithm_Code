@@ -26,3 +26,6 @@ The implementation of the algorithm.
 7. [Heap Sort(堆排序)](http://shichaoxin.com/2021/06/21/算法基础-排序-堆排序/)
 	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/HeapSort.cpp)
 	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/HeapSort.py)
+8. [Counting Sort(计数排序)](http://shichaoxin.com/2021/07/08/算法基础-排序-计数排序/)
+	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/CountingSort.cpp)
+	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/CountingSort.py)
