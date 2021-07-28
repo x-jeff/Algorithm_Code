@@ -29,3 +29,6 @@ The implementation of the algorithm.
 8. [Counting Sort(计数排序)](http://shichaoxin.com/2021/07/08/算法基础-排序-计数排序/)
 	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/CountingSort.cpp)
 	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/CountingSort.py)
+9. [Bucket Sort(桶排序)](http://shichaoxin.com/2021/07/24/算法基础-排序-桶排序/)
+	* [cpp](https://github.com/x-jeff/Algorithm_Code/blob/master/cpp/Sort/BucketSort.cpp)
+	* [python](https://github.com/x-jeff/Algorithm_Code/blob/master/python/Sort/BucketSort.py)
